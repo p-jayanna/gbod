@@ -1,0 +1,10 @@
+Package: gbod
+Title: Outlier Detection
+Version: 1.0
+Date: 2017-05-24
+Author: Ying Praveen
+Maintainer: Praveenkumar  <praveenkumarjayanna@gmail.com>
+Description: The grid based outlier detection algorithm is implemented based on the techincal artical Grid Based Outlier Detection in Large Data Sets
+    by Ying Gu at german reserach center for artificial intelligence.
+Suggests: MASS
+License: open source
